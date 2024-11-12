@@ -3,7 +3,6 @@
 </h1>
 
 ## 📃 Descrição
-Nesta masterclass, 
 Neste aplicativo foi explorada a implementação e manipulação de mapas no React Native de forma prática e interativa,  obtenção da localização do dispositivo em tempo real e integração com API da Google. Projeto desenvolvido durante a participação na <a href="https://youtu.be/7DY1tHHudtM?si=-izHy7bzguNYQwnR">Masterclass</a> da Rocketseat.
 
 ## 🔧 Features
